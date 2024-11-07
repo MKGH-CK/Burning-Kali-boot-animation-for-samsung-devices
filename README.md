@@ -7,5 +7,8 @@ I was looking for file but couldn't find so made my own
 2) Replace them with files of same name in /system/Media/
 3) Done animation is applied.
 
-# *Note* : copy original boot files so that you can restore them if wanted.
+# *Note* : 
+1) copy original boot files so that you can restore them if wanted.
+2) Don't share without credit.
+#
 Thanks for visiting my repo.
