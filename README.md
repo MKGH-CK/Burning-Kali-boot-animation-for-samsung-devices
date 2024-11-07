@@ -10,5 +10,6 @@ I was looking for file but couldn't find so made my own
 # *Note* : 
 1) copy original boot files so that you can restore them if wanted.
 2) Don't share without credit.
+3) It is necessary to place both files to prevent bootloop.
 #
 Thanks for visiting my repo.
